@@ -1,0 +1,10 @@
+.gallery-item:hover .gallery-img {
+  cursor: pointer;
+  transition: 0.3s ease;
+  scale: 1.3;
+}
+
+.ga-img {
+  height: 200px !important;
+  object-fit: cover;
+}

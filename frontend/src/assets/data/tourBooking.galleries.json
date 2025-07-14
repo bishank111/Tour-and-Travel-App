@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65b75aa30aadefe5ee62b1e4"
+  },
+  "src": "./gallery-images/gallery-01.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75dac0aadefe5ee62b1ec"
+  },
+  "src": "./gallery-images/gallery-02.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75e900aadefe5ee62b1ed"
+  },
+  "src": "./gallery-images/gallery-03.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75e9b0aadefe5ee62b1ee"
+  },
+  "src": "./gallery-images/gallery-04.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75ea20aadefe5ee62b1ef"
+  },
+  "src": "./gallery-images/gallery-05.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75ea80aadefe5ee62b1f0"
+  },
+  "src": "./gallery-images/gallery-06.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b75ead0aadefe5ee62b1f1"
+  },
+  "src": "./gallery-images/gallery-07.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b760390aadefe5ee62b1f2"
+  },
+  "src": "./gallery-images/gallery-08.jpg"
+}]
